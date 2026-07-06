@@ -1,0 +1,43 @@
+site_name: Curtin ML Group — Handbook
+site_description: How we work — onboarding and workflow for the Curtin Machine Learning Group
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - toc:
+      permalink: true
+
+nav:
+  - Welcome: index.md
+  - Getting started: getting-started.md
+  - How we work: how-we-work.md
+  - Git & pull requests: git-and-prs.md
+  - Where data lives: data.md
+  - Experiments & reproducibility: experiments.md
+  - Weekly rhythm: weekly-rhythm.md
+  - Using AI (Claude Code): ai-claude-code.md
+  - Reference: reference.md
