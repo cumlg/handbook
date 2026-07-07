@@ -13,7 +13,7 @@
 | Official / external / long | Email |
 
 ## Repository naming
-`<grant>-<workstream>` — e.g. `linkage-damage-detection`, `decra-agent-orchestration`, `dot-collision-sim`.
+`<project>-<workstream>` — e.g. `linkage-damage-detection`, `decra-agent-orchestration`, `dot-collision-sim`.
 
 ## Labels
 `experiment` · `task` · `bug` · `paper` · `reading` · `blocked`

@@ -16,7 +16,7 @@ Each student has one repo for their workstream: code, notebooks, and the record 
 The group board **Workstreams — Qilin Li** pulls every issue from every repo into one place, so your supervisor sees the whole group at a glance. You keep your part current:
 
 - Drag issues across **Backlog → This week → In progress → Blocked → In review → Done**.
-- Set the **Grant** and **Priority** fields.
+- Set the **Project** and **Priority** fields.
 
 ## The loop
 1. Open an issue for what you're about to do.
