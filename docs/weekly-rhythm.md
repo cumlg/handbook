@@ -19,4 +19,4 @@ That update is your progress record — three minutes, and your supervisor alway
 - Write a short summary after your 1:1 as an issue comment.
 
 ## Milestones
-Candidature milestones and paper deadlines live on the board's **Timeline** view. Keep your **Target date** fields current.
+Your candidature stages (**M1–M3**) and each **`Paper: <venue>`** are milestones in your repo; partner deliverables are `deliverable`-labelled issues with a **Target date** ([how milestones work](how-we-work.md)). Keep issues attached to the right milestone and target dates current — the board's **Milestone** and **Roadmap** views roll them all up.
