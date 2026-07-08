@@ -10,7 +10,7 @@ Each student has one repo for their workstream: code, notebooks, and the record 
 
 - Use the **Task** template for work, the **Experiment** template for a run (it captures hypothesis, dataset version, W&B link, result).
 - Discuss the work **in the issue comments** — that keeps the discussion attached to the task and searchable forever.
-- Label with `experiment`, `task`, `bug`, `paper`, `reading`, `deliverable`, or `blocked`.
+- Label with `experiment`, `task`, `bug`, `paper`, `reading`, or `blocked`.
 
 ## The board — the shared view
 The group board **Workstreams — Qilin Li** pulls every issue from every repo into one place, so your supervisor sees the whole group at a glance. You keep your part current:
@@ -23,7 +23,7 @@ The three things above carry the day-to-day. **Milestones** give it a spine: the
 
 - **Candidature stages** are milestones in your repo — **M1 — Candidacy**, **M2 — Mid-candidacy review**, **M3 — Final review & submission**. Attach each task or experiment to the stage it belongs to; your supervisor sets the due dates for your timeline.
 - **A paper** is its own milestone named `Paper: <venue>` (e.g. `Paper: ICES2026`), with the submission deadline as its due date. Its work-package issues attach to it.
-- **A partner deliverable** is an issue labelled `deliverable`, with a **Target date** and the **Project** field set.
+- **A contract/partner deliverable** is its own milestone named `Deliverable — <name>` (e.g. `Deliverable — ML surrogate model`), with the deliverable's due date. Its tasks attach to it.
 
 Every milestone surfaces on the board's **Milestone** field, so the whole group's checkpoints sit in one view.
 
