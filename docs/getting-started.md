@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Every piece of work starts as a GitHub issue. Open one describing your first task or experiment (use the **Experiment** template for a run). See [How we work](how-we-work.md).
 
 ## 5. Put it on the board
-Your issues appear on the group board, **Workstreams — Qilin Li**. Set the **Project** field and drag your issue into **This week**.
+Your issues are added to the group board, **[Workstreams](https://github.com/orgs/cumlg/projects/1)**, automatically. Set the **Priority** field and drag your issue into **This week**.
 
 !!! tip "New to Git or GitHub?"
     Read [Git & pull requests](git-and-prs.md) — it starts from zero and only assumes you can edit a file.
