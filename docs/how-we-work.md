@@ -13,10 +13,10 @@ Each student has one repo for their workstream: code, notebooks, and the record 
 - Label with `experiment`, `task`, `bug`, `paper`, `reading`, or `blocked`.
 
 ## The board — the shared view
-The group board **Workstreams — Qilin Li** pulls every issue from every repo into one place, so your supervisor sees the whole group at a glance. You keep your part current:
+The group board **[Workstreams](https://github.com/orgs/cumlg/projects/1)** pulls every issue from every repo into one place, so the whole group's work is visible at a glance. Every issue you open is added automatically within half an hour, in **Backlog**, with its **Project** already set — you keep the rest current:
 
 - Drag issues across **Backlog → This week → In progress → Blocked → In review → Done**.
-- Set the **Project** and **Priority** fields.
+- Set the **Priority** field.
 
 ## Milestones — the arc of the work
 The three things above carry the day-to-day. **Milestones** give it a spine: they bundle issues toward a checkpoint and show progress as those issues close.
