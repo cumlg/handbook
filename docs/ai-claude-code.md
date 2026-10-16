@@ -16,4 +16,4 @@ We use AI tools — including [Claude Code](https://claude.com/claude-code) — 
 Each repo has a `CLAUDE.md` that tells Claude Code the project's conventions — stack, where data goes, coding style. Keep it current; it steers every AI session in your repo toward our standards.
 
 ## Supervisor commands
-Your supervisor uses Claude Code commands like `/weekly-digest` (a cross-repo summary) and `/review-pr` (a first-pass PR review). Clear issues, clean PRs, and good W&B logging make these work well — which means faster feedback for you.
+Your supervisor runs a Claude Code command (`/digest`) every Monday that reads every repo's weekly log and issue activity for the week and turns it into the brief he replies from — see [What you get back](weekly-rhythm.md#what-you-get-back). It only reads; every reply you receive is written by him. Clear issue titles, a weekly log that links the issues it mentions, and experiments closed with a written result are what make it work well — which means faster feedback for you.
