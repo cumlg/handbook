@@ -3,8 +3,8 @@
 A light cadence around the [daily loop](how-we-work.md).
 
 ## Monday — plan in the open
-- Move your issues into **This week** on the board.
-- Post a 3-line update on your **weekly-log** issue: *did last week / doing this week / blocked on.*
+- Post a 3-line update on your **weekly-log** issue: *did last week / doing this week / blocked on.* Link the issues you mention (`#12`).
+- Close anything you finished last week.
 
 That update is your progress record — three minutes, and your supervisor always knows where you are.
 
@@ -20,8 +20,8 @@ That update is your progress record — three minutes, and your supervisor alway
 
 ## Meetings
 - **Group standup** (weekly): 2–4 minutes each — did / doing / stuck.
-- **1:1 with supervisor** (weekly): driven off your board; bring your agenda.
+- **1:1 with supervisor** (weekly): driven off your weekly log and open issues; bring your agenda.
 - Write a short summary after your 1:1 as an issue comment.
 
 ## Milestones
-Your candidature stages (**M1–M3**), each **`Paper: <venue>`**, and any contract **`Deliverable — <name>`** are milestones in your repo ([how milestones work](how-we-work.md)). Keep issues attached to the right milestone and its due date current — the board's **Milestone** and **Roadmap** views roll them all up.
+Your candidature stages (**M1–M3**), each **`Paper: <venue>`**, and any contract **`Deliverable — <name>`** are milestones in your repo ([how milestones work](how-we-work.md)). Keep a milestone's due date honest: when it passes, close it with what was delivered or move the date — a milestone that is months overdue tells nobody anything.

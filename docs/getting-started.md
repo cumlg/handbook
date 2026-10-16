@@ -24,8 +24,8 @@ pip install -r requirements.txt
 ## 4. Open your first issue
 Every piece of work starts as a GitHub issue. Open one describing your first task or experiment (use the **Experiment** template for a run). See [How we work](how-we-work.md).
 
-## 5. Put it on the board
-Your issues are added to the group board, **[Workstreams](https://github.com/orgs/cumlg/projects/1)**, automatically. Set the **Priority** field and drag your issue into **This week**.
+## 5. Find your weekly log
+Your repo has an open issue titled **Weekly log — <your name>**. Every Monday you add a comment there: did / doing / blocked. That comment, and the issues it links, are what your supervisor reads — see [Weekly rhythm](weekly-rhythm.md). Your issues also appear on the group board, **[Workstreams](https://github.com/orgs/cumlg/projects/1)**, automatically; nothing to do there.
 
 !!! tip "New to Git or GitHub?"
     Read [Git & pull requests](git-and-prs.md) — it starts from zero and only assumes you can edit a file.

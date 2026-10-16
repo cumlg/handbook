@@ -34,7 +34,6 @@ A **pull request (PR)** is a checkpoint on GitHub that shows exactly what change
 
 - You want **feedback** from your supervisor or a peer.
 - It's the code behind a **paper's key result** (so it can be checked for reproducibility).
-- You're changing **shared code** (`lab-toolkit`), which affects others.
 
 ```bash
 git push -u origin <branch>

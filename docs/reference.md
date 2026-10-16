@@ -4,7 +4,7 @@
 | Thing | Home |
 |---|---|
 | Code, tasks, experiments, decisions, Q&A | GitHub (issues, PRs) |
-| Progress tracking | Board: *Workstreams* |
+| Progress tracking | Your weekly-log issue; board *Workstreams* for the group-wide view |
 | Image datasets + labelling | Roboflow |
 | Experiment runs & metrics | Weights & Biases |
 | Large data / 3D / checkpoints | DVC → institutional storage |
@@ -22,7 +22,6 @@
 - Organisation: [github.com/cumlg](https://github.com/cumlg)
 - Board: [Workstreams](https://github.com/orgs/cumlg/projects/1)
 - Template: [project-template](https://github.com/cumlg/project-template)
-- Shared code: [lab-toolkit](https://github.com/cumlg/lab-toolkit)
 
 ## Further reading
 - Chen, Toro-Moreno & Subramaniam, *GitHub enables collaborative and reproducible laboratory research*, PLOS Biology (2025).
