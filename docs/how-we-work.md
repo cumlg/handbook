@@ -8,9 +8,9 @@ Each student has one repo for their workstream: code, notebooks, and the record 
 ## Issues — the unit of work
 **Every task or experiment is a GitHub issue.** Not an email, not a note to self.
 
-- Use the **Task** template for work, the **Experiment** template for a run (it captures hypothesis, dataset version, W&B link, result).
+- Use the **Task** template for work, the **Experiment** template for a run (hypothesis and setup up front; the result as the closing comment), the **Plan** template for a paper or a milestone deliverable that other issues feed into.
 - Discuss the work **in the issue comments** — that keeps the discussion attached to the task and searchable forever.
-- Label with `experiment`, `task`, `bug`, `paper`, `reading`, or `blocked`.
+- Label with `experiment`, `task`, `plan`, `bug`, `paper`, `reading`, or `blocked`.
 
 ## The board — the shared view
 The group board **[Workstreams](https://github.com/orgs/cumlg/projects/1)** pulls every issue from every repo into one place, so the whole group's work is visible at a glance. Every issue you open is added automatically within half an hour, with its **Project** already set. You don't have to maintain it: what your supervisor reads is your issues and your weekly log, not the board's columns. Move cards or set **Priority** if it helps you; the `blocked` label is the one thing that must be set on the issue itself.

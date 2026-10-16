@@ -16,7 +16,7 @@
 `<project>-<workstream>` — e.g. `linkage-damage-detection`, `decra-agent-orchestration`, `dot-collision-sim`.
 
 ## Labels
-`experiment` · `task` · `bug` · `paper` · `reading` · `blocked`
+`experiment` · `task` · `plan` · `bug` · `paper` · `reading` · `blocked`
 
 ## Key links
 - Organisation: [github.com/cumlg](https://github.com/cumlg)
