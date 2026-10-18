@@ -40,7 +40,9 @@ nav:
   - Where data lives: data.md
   - Experiments & reproducibility: experiments.md
   - Weekly rhythm: weekly-rhythm.md
+  - Group talks: group-talks.md
   - Candidature stages:
       - M1 — Thesis proposal: stages/m1-thesis-proposal.md
+  - Your first paper: first-paper.md
   - Using AI (Claude Code): ai-claude-code.md
   - Reference: reference.md
