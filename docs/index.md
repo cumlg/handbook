@@ -20,6 +20,7 @@ Everything about your work lives on GitHub — code, tasks, experiments, decisio
 - **Day-to-day** → [How we work](how-we-work.md) · [Git & pull requests](git-and-prs.md)
 - **Running experiments** → [Where data lives](data.md) · [Experiments & reproducibility](experiments.md)
 - **Rhythm & tools** → [Weekly rhythm](weekly-rhythm.md) · [Using AI](ai-claude-code.md) · [Reference](reference.md)
+- **Candidature stages** → [M1 — Thesis proposal](stages/m1-thesis-proposal.md)
 
 !!! note "This handbook is a living document"
     Something unclear or missing? Edit the page and open a pull request — see [Git & pull requests](git-and-prs.md).

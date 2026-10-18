@@ -18,7 +18,7 @@ The group board **[Workstreams](https://github.com/orgs/cumlg/projects/1)** pull
 ## Milestones — the arc of the work
 The three things above carry the day-to-day. **Milestones** give it a spine: they bundle issues toward a checkpoint and show progress as those issues close. Use them where there is a real checkpoint; don't attach issues to a milestone for its own sake.
 
-- **Candidature stages** are milestones in your repo — **M1 — Candidacy**, **M2 — Mid-candidacy review**, **M3 — Final review & submission**. Attach each task or experiment to the stage it belongs to; your supervisor sets the due dates for your timeline.
+- **Candidature stages** are milestones in your repo — **M1 — Candidacy**, **M2 — Mid-candidacy review**, **M3 — Final review & submission**. Attach each task or experiment to the stage it belongs to; your supervisor sets the due dates for your timeline. What each stage involves, for you and for your supervisor: [M1 — Thesis proposal](stages/m1-thesis-proposal.md).
 - **A paper** is its own milestone named `Paper: <venue>` (e.g. `Paper: ICES2026`), with the submission deadline as its due date. Its work-package issues attach to it.
 - **A contract/partner deliverable** is its own milestone named `Deliverable — <name>` (e.g. `Deliverable — ML surrogate model`), with the deliverable's due date. Its tasks attach to it.
 
