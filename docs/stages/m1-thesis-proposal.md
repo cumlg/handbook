@@ -41,7 +41,7 @@ All of these, not most. Paste this list into your proposal's plan issue (see [Wh
 - [ ] The literature chapter argues toward the gap; a reader could predict the research question before reaching it.
 - [ ] The evaluation plan names what evidence would convince an examiner and what result would count as failure.
 - [ ] Access to the data / equipment / compute for Objective 1 is confirmed, not assumed. Any ethics approval or data agreement the thesis depends on is identified and the application has started — these take months.
-- [ ] You have presented twice at group meeting and the proposal answers the questions you were asked.
+- [ ] You have presented twice to the group — once at a progress meeting, once in a paper-reading hour — and the proposal answers the questions you were asked.
 - [ ] The document meets the university's candidacy requirements. <!-- TODO: link to the HDR milestone requirements -->
 
 ## Kill criteria — when we stop polishing and change course
@@ -80,7 +80,7 @@ Hitting a kill criterion is not a failure on your part. It is the stage doing it
 - Thesis statement v1, one sentence, using the template below. Revise it weekly and post every version as a comment on the plan issue — the history is useful at candidacy.
 - A pilot experiment: take the weakest assumption in your hypothesis and test it the cheapest way you can — simulated or benchmark data is fine. Close it with a `Result:` comment whichever way it went. If it isn't obvious which assumption is weakest, ask; that is a question for the 1:1, not something to guess at.
 - Objectives v1 (3–5), risk-ordered, each with an "achieved when …" line, plus the fallback thesis.
-- **Group meeting talk #1** (end of month 2): your slot at the fortnightly group meeting, ten minutes — thesis statement plus pilot result. The audience doesn't share my assumptions, which makes them closer to real examiners than I am.
+- **Group talk #1** (end of month 2): your ten minutes at the fortnightly progress meeting — thesis statement plus pilot result. The audience doesn't share my assumptions, which makes them closer to real examiners than I am.
 - A go/no-go meeting with me at the end of the month.
 
 **I provide / check**
@@ -119,7 +119,7 @@ Hitting a kill criterion is not a failure on your part. It is the stage doing it
 
 **You deliver**
 
-- **Group meeting talk #2:** the full twenty-minute slot at the fortnightly group meeting, run as a mock candidacy.
+- **Group talk #2:** a paper-reading hour is yours — twenty minutes of proposal talk, the rest questions — run as a mock candidacy.
 - Revisions from the mock and from the second reader; submission through the university process.
 - Your thesis statement in the README of your repo. Update it whenever it changes — it will.
 
@@ -135,7 +135,7 @@ The group rules are on [Using AI](../ai-claude-code.md). For this stage specific
 
 ## Compressed timeline — three months
 
-Orient 3 weeks · Converge 4 weeks · Write 4 weeks · Polish 1 week. One group-meeting talk instead of two, in whichever fortnightly slot falls nearest the end of week 7, run as the mock. Nothing else is dropped: the baseline, the pilot and the go/no-go stay.
+Orient 3 weeks · Converge 4 weeks · Write 4 weeks · Polish 1 week. One group talk instead of two: a paper-reading hour near the end of week 7, run as the mock. Nothing else is dropped: the baseline, the pilot and the go/no-go stay.
 
 ## Templates
 
