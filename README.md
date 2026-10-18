@@ -14,3 +14,6 @@ Pages are Markdown files in `docs/`. Edit a page and open a pull request. On mer
 ## Publish
 Pushes to `main` build and deploy the site via GitHub Actions (`.github/workflows/pages.yml`).
 To turn the public site on: **repo Settings → Pages → Source: GitHub Actions**.
+
+## License
+The handbook's content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse and adapt it freely with attribution to Qilin Li / Curtin ML Group. See [`LICENSE`](LICENSE).

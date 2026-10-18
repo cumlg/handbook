@@ -1,5 +1,6 @@
 site_name: Curtin ML Group — Handbook
 site_description: How we work — onboarding and workflow for the Curtin Machine Learning Group
+copyright: 'Qilin Li · Curtin ML Group · Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 theme:
   name: material
