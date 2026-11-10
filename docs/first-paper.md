@@ -25,16 +25,16 @@ How you get there is yours. Some people know the contribution from the plan. I u
 
 ## Exit criteria — what "ready to submit" means
 
-All of these. Paste into the plan issue and tick there.
+All of these. Copy this list into the plan issue as a checklist, and tick the items off there, not on this page.
 
-- [ ] Contribution statement passes all three tests; you can defend it without notes.
-- [ ] The introduction tells the story in five moves; a reader could predict the contributions before reaching them.
-- [ ] Every section serves the contributions, as above.
-- [ ] Every figure and table regenerates from the repo at a tagged commit, from the README alone, checked from a fresh clone — `Reproduced:` comment on the plan issue.
-- [ ] Authorship recorded on the plan issue before the first draft.
-- [ ] Every co-author has read it and every comment has an answer.
-- [ ] AI log current; the venue's AI declaration written from it.
-- [ ] My sign-off against this list, on the plan issue.
+- Contribution statement passes all three tests; you can defend it without notes.
+- The introduction tells the story in five moves; a reader could predict the contributions before reaching them.
+- Every section serves the contributions, as above.
+- Every figure and table regenerates from the repo at a tagged commit, from the README alone, checked from a fresh clone — `Reproduced:` comment on the plan issue.
+- Authorship recorded on the plan issue before the first draft.
+- Every co-author has read it and every comment has an answer.
+- AI log current; the venue's AI declaration written from it.
+- My sign-off against this list, on the plan issue.
 
 ## Kill criteria
 

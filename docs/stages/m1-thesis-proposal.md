@@ -9,7 +9,7 @@ The first candidature stage: months 1–6, ending at your **M1 — Candidacy** m
 
 ## What this stage is actually for
 
-The document is the by-product. The real deliverable of your first six months is a student who can:
+The research proposal is the by-product. The real deliverable of your first six months is a student who can:
 
 1. state the thesis in one sentence,
 2. say how that sentence could turn out to be wrong, and
@@ -31,18 +31,18 @@ The gap and the significance are the supervisor's to give. The question and the 
 
 ## Exit criteria — what "done" means
 
-All of these, not most. Paste this list into your proposal's plan issue (see [Where things live](#where-things-live)) and tick them there.
+All of these, not most. Copy this list into your proposal's plan issue (see [Where things live](#where-things-live)) as a checklist, and tick the items off there, not on this page.
 
-- [ ] Thesis statement in one sentence (template below), plus one line on how it could be wrong. You can defend both without notes.
-- [ ] You can tell someone outside the field, in two sentences, what changes if the thesis holds.
-- [ ] Objectives (3–5) are risk-ordered: the first is low-risk and uses data and tools we already have. A **fallback thesis** is written down — the weaker claim that still stands if the riskiest objective fails.
-- [ ] Each objective maps to a chapter and to the evidence it will produce.
-- [ ] A pilot experiment has been run on the weakest assumption, and its result — either way — is in the proposal. If no cheap pilot exists, the proposal says so and the risk rating reflects it.
-- [ ] The literature chapter argues toward the gap; a reader could predict the research question before reaching it.
-- [ ] The evaluation plan names what evidence would convince an examiner and what result would count as failure.
-- [ ] Access to the data / equipment / compute for Objective 1 is confirmed, not assumed. Any ethics approval or data agreement the thesis depends on is identified and the application has started — these take months.
-- [ ] You have presented twice to the group — once at a progress meeting, once in a paper-reading hour — and the proposal answers the questions you were asked.
-- [ ] The document meets the university's candidacy requirements. <!-- TODO: link to the HDR milestone requirements -->
+- Thesis statement in one sentence (template below), plus one line on how it could be wrong. You can defend both without notes.
+- You can tell someone outside the field, in two sentences, what changes if the thesis holds.
+- Objectives (3–5) are risk-ordered: the first is low-risk and uses data and tools we already have. A **fallback thesis** is written down — the weaker claim that still stands if the riskiest objective fails.
+- Each objective maps to a chapter and to the evidence it will produce.
+- A pilot experiment has been run on the weakest assumption, and its result — either way — is in the proposal. If no cheap pilot exists, the proposal says so and the risk rating reflects it.
+- The literature chapter argues toward the gap; a reader could predict the research question before reaching it.
+- The evaluation plan names what evidence would convince an examiner and what result would count as failure.
+- Access to the data / equipment / compute for Objective 1 is confirmed, not assumed. Any ethics approval or data agreement the thesis depends on is identified and the application has started — these take months.
+- You have presented twice to the group — once at a progress meeting, once in a paper-reading hour — and the proposal answers the questions you were asked.
+- The document meets the university's candidacy requirements. <!-- TODO: link to the HDR milestone requirements -->
 
 ## Kill criteria — when we stop polishing and change course
 
